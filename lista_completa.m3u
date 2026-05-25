@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TVN.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg" group-title="CHILE",CHILE - TVN (1080p)
+http://217.26.190.76:8888/play/a0m6/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg" group-title="CHILE",CHILE - TVN HD
+http://38.224.231.98:8000/play/a0e8/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal_13_2025.svg" group-title="CHILE",CHILE - Canal 13 HD
+http://38.226.210.46:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Logotipo_Principal_de_Chilevisi%C3%B2n.svg" group-title="CHILE",CHILE - CHV HD
+http://38.226.210.46:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_de_Mega_%282020-%29.svg" group-title="CHILE",CHILE - MEGA HD
+http://38.226.210.46:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Emblema_de_24_Horas_TVN.svg" group-title="CHILE",CHILE - Canal 24 Horas
+http://38.226.210.46:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Logotipo_de_UCV_Televisi%C3%B2n_%282018%29.png/300px-Logotipo_de_UCV_Televisi%C3%B2n_%282018%29.png" group-title="CHILE",CHILE - TV+
+http://38.226.210.46:8000/play/a03j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logotipo_de_TNT_Sports_%28Chile%29.svg" group-title="DEPORTES",DEP - TNT Sports Premium HD
+http://38.226.210.46:8000/play/a05m/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/DSports_LA.svg" group-title="DEPORTES",DEP - DSPORTS_HD
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1 tvg-id="TeletrakTV.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Teletrak_2018.svg/200px-Teletrak_2018.svg.png" group-title="DEPORTES",DEP - Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ESPN.png" group-title="DEPORTES",DEP - ESPN Premium HD
+http://38.226.210.46:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ESPN.png" group-title="DEPORTES",DEP - ESPN 7 HD
+http://38.226.210.46:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ESPN.png" group-title="DEPORTES",DEP - ESPN 6 HD
+http://38.226.210.46:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ESPN.png" group-title="DEPORTES",DEP - ESPN 5 HD
+http://38.226.210.46:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ESPN.png" group-title="DEPORTES",DEP - ESPN 4 HD
+http://38.226.210.46:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ESPN.png" group-title="DEPORTES",DEP - ESPN 3 HD
+http://38.226.210.46:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ESPN.png" group-title="DEPORTES",DEP - ESPN 2 HD
+http://38.226.210.46:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ESPN.png" group-title="DEPORTES",DEP - ESPN HD
+http://38.226.210.46:8000/play/a05p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/ESPN.png" group-title="DEPORTES",DEP - ESPN HD 2
+http://38.226.210.46:8000/play/a05u/index.m3u8
