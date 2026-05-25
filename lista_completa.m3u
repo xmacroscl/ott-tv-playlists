@@ -15,7 +15,7 @@ http://38.226.210.46:8000/play/a03l/index.m3u8
 http://38.226.210.46:8000/play/a03j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/TNT_Sports_Chile.svg" group-title="DEPORTES",DEP - TNT Sports Premium HD
 http://38.226.210.46:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/DSports.svg" group-title="DEPORTES",DEP - DSPORTS_HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/DSports.svg" group-title="DEPORTES",DEP - DSPORTS_HD
 http://38.226.210.46:8000/play/A008/index.m3u8
 #EXTINF:-1 tvg-id="TeletrakTV.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Teletrak_2018.svg/200px-Teletrak_2018.svg.png" group-title="DEPORTES",DEP - Teletrak (720p)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
