@@ -144,11 +144,8 @@ https://cdn-live.mundogo.cl/foxsports3/foxsports3.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JBjZmJSbJLznVY2TyjhYIA", "kid":"P5fiZSZWWNKKk8lhQh9pdg" },{ "kty":"oct", "k":"tbrby9+XopAhS175f6z/sQ", "kid":"vAdgdB9mWweSubljnLzeag" },{ "kty":"oct", "k":"ZrlFjgZJjMPjM5eSFzKaRQ", "kid":"mf/BC5gQU1WohzAXKDWd5g" } ], "type":"temporary" }
 https://cdn-live.mundogo.cl/foxsports2/foxsports2.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logotipo_de_TNT_Sports_%28Chile%29.svg" group-title="DEPORTES",DEP - TNT Sports Premium HD
+http://38.226.210.46:8000/play/a05m/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",DirecTV Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cdn-live.mundogo.cl/dsports/dsports.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",TNT Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cdn-live.mundogo.cl/tnt/tnt.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/DSports_LA.svg" group-title="DEPORTES",DEP - DSPORTS HD
+http://38.226.210.46:8000/play/A008/index.m3u8
